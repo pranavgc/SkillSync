@@ -19,11 +19,13 @@ SkillSync is an AI-powered career strategist and talent capability extractor. It
 *   **Document Parsing:** PyMuPDF (PDF), python-docx (Word)
 
 **Frontend:**
-*   **Core:** React 18, Vite, TypeScript
+*   **Core:** React 18, Vite, TypeScript 
 *   **Styling & UI:** Tailwind CSS, Framer Motion, Lucide React, Recharts
 *   **3D Elements:** Three.js, React Three Fiber & Drei
 *   **Auth:** Firebase Authentication
 
+AI use:
+Vibe coded frontend, FastAPi and Uvicorn integration with Antigravity gemini-3.1-pro
 ## 🚀 Getting Started
 
 ### Prerequisites
