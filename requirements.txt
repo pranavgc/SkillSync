@@ -1,0 +1,37 @@
+# Web Framework
+fastapi>=0.111.0
+uvicorn>=0.29.0
+python-multipart>=0.0.9
+
+# AI & Agents
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-core>=0.3.0
+langchain-huggingface>=0.1.0
+langchain-google-genai>=2.0.0
+google-generativeai>=0.8.0
+huggingface-hub>=0.24.0
+
+# Document Parsing
+PyMuPDF>=1.24.4
+
+# Google Cloud SDKs
+firebase-admin>=6.5.0
+google-cloud-firestore>=2.16.0
+google-cloud-pubsub>=2.21.1
+google-cloud-bigquery>=3.24.0
+google-api-python-client>=2.131.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+
+# Search & Tools
+duckduckgo-search>=5.3.1
+
+# Validation & Utilities
+pydantic>=2.9.0
+python-dotenv>=1.0.1
+python-docx>=1.1.0
+
+# Kaggle Porting
+pyngrok>=7.1.0
+nest-asyncio>=1.6.0
