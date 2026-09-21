@@ -61,7 +61,7 @@ Vibe coded frontend, FastAPi and Uvicorn integration with Antigravity gemini-3.1
     ```bash
     uvicorn main:app --reload --host 0.0.0.0 --port 8080
     ```
-    *(Alternatively, run `start.bat` on Windows)*
+    
 
 ### Frontend Setup
 
